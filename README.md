@@ -12,16 +12,16 @@
 </p>
 <h2>Some tools that I have worked With:</h2>
 <p>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img src="https://img.icons8.com/color/40/000000/css-filetype.png"/>
-<img src="https://img.icons8.com/color/50/000000/linux--v2.png"/>
-<img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/visual-basic.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+<img width ="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img width ="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img width ="36px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
+<img width ="36px" src="https://img.icons8.com/color/40/000000/css-filetype.png"/>
+<img width ="36px" src="https://img.icons8.com/color/50/000000/linux--v2.png"/>
+<img width ="36px" src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
+<img width ="36px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img width ="36px" src="https://img.icons8.com/fluent/48/000000/visual-basic.png"/>
+<img width ="36px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img width ="36px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
  </p>
  <h3>Social Links:</h3>
 
@@ -29,6 +29,6 @@
  <a href="https://www.youtube.com/channel/UCTA5vSw4kZs04TqCw6nDAMg"> <img src="https://img.shields.io/youtube/channel/views/UCTA5vSw4kZs04TqCw6nDAMg?style=social?style=for-the-badge&logo=appveyor"></a>
  <a href="https://twitter.com/Utkar5hm"><img src="https://img.shields.io/twitter/follow/Utkar5hm?style=social?style=for-the-badge&logo=appveyor"></a>
  
- <a href="https://www.facebook.com/utkar5hM/"> <img src="https://github.com/Utkar5hM/Utkar5hM/raw/main/facebook.png" width=32px></a><a href="https://www.linkedin.com/in/utkarsh-m-54256b132/"> <img src="https://github.com/Utkar5hM/Utkar5hM/raw/main/linkedin.png" width=32px></a>
+ <a href="https://www.facebook.com/utkar5hM/"> <img width ="24px" src="https://github.com/Utkar5hM/Utkar5hM/raw/main/facebook.png" ></a><a href="https://www.linkedin.com/in/utkarsh-m-54256b132/"> <img width ="24px" src="https://github.com/Utkar5hM/Utkar5hM/raw/main/linkedin.png" ></a>
  
  
