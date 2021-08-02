@@ -25,10 +25,7 @@
  </p>
  <h3>Social Links:</h3>
 
-<a href="https://www.reddit.com/user/Utkar5hM"> <img src="https://img.shields.io/reddit/user-karma/combined/Utkar5hM?style=social?style=for-the-badge&logo=appveyor" ></a>
  <a href="https://www.youtube.com/channel/UCTA5vSw4kZs04TqCw6nDAMg"> <img src="https://img.shields.io/youtube/channel/views/UCTA5vSw4kZs04TqCw6nDAMg?style=social?style=for-the-badge&logo=appveyor"></a>
- <a href="https://twitter.com/Utkar5hm"><img src="https://img.shields.io/twitter/follow/Utkar5hm?style=social?style=for-the-badge&logo=appveyor"></a>
- 
  <a href="https://www.facebook.com/utkar5hM/"> <img width ="24px" src="https://github.com/Utkar5hM/Utkar5hM/raw/main/facebook.png" ></a><a href="https://www.linkedin.com/in/utkarsh-m-54256b132/"> <img width ="24px" src="https://github.com/Utkar5hM/Utkar5hM/raw/main/linkedin.png" ></a>
  
  
