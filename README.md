@@ -1,31 +1,34 @@
+<h1 align="center">Hi 👋, I'm Utkarsh Mahajan</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkar5hm&label=Profile%20views&color=0e75b6&style=flat" alt="utkar5hm" /> </p>
 
- <h1>Hey there!, I'm Utkarsh</h1>
- <h2> About Me</h2>
- <p>
- <img src="https://img.shields.io/badge/Age-20-blue?style=for-the-badge&logo=appveyor">
- <img src="https://img.shields.io/badge/Lives%20in-Karnataka%2C%20India-green?style=for-the-badge&logo=appveyor">
- <img src="https://img.shields.io/badge/Studying%20at-National%20Institute%20Of%20Technology%2C%20Karnataka-blue?style=for-the-badge&logo=appveyor">
- <img src="https://img.shields.io/badge/Branch-Electronics%20and%20Communication%20Engineering-red?style=for-the-badge&logo=appveyor">
- <ul>
-  
-  </ul>
+<p align="left"> <a href="https://twitter.com/utkar5hm" target="blank"><img src="https://img.shields.io/twitter/follow/utkar5hm?logo=twitter&style=for-the-badge" alt="utkar5hm" /></a> </p>
+
+- 🔭 I’m currently working on **Alag ( a Social Media App)**
+
+- 🌱 I’m currently learning **React, C.Arch**
+
+- 👯 I’m looking to collaborate on [competition-management-system](https://github.com/Utkar5hM/competition-management-system)
+
+- 🤝 I’m looking for help with **ReactJs, Computer Architecture, VLSI**
+
+- 👨‍💻 All of my projects are available at [Coming Soon](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+- 💬 Ask me about **Node, c++, eJs**
+
+- 📫 How to reach me **utkarshrm568@gmail.com**
+
+- ⚡ Fun fact **I make lame jokes.:)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkar5hm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkar5hm" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/2900609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="2900609" height="30" width="40" /></a>
+<a href="https://fb.com/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkar5hm" height="30" width="40" /></a>
+<a href="https://instagram.com/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkar5hm" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCTA5vSw4kZs04TqCw6nDAMg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucta5vsw4kzs04tqcw6ndamg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkar5hm" height="30" width="40" /></a>
 </p>
-<h2>Some tools that I have worked With:</h2>
-<p>
-<img width ="36px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img width ="36px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img width ="36px" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
-<img width ="36px" src="https://img.icons8.com/color/40/000000/css-filetype.png"/>
-<img width ="36px" src="https://img.icons8.com/color/50/000000/linux--v2.png"/>
-<img width ="36px" src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
-<img width ="36px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img width ="36px" src="https://img.icons8.com/fluent/48/000000/visual-basic.png"/>
-<img width ="36px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-<img width ="36px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
- </p>
- <h3>Social Links:</h3>
 
- <a href="https://www.youtube.com/channel/UCTA5vSw4kZs04TqCw6nDAMg"> <img src="https://img.shields.io/youtube/channel/views/UCTA5vSw4kZs04TqCw6nDAMg?style=social?style=for-the-badge&logo=appveyor"></a>
- <a href="https://www.facebook.com/utkar5hM/"> <img width ="24px" src="https://github.com/Utkar5hM/Utkar5hM/raw/main/facebook.png" ></a><a href="https://www.linkedin.com/in/utkarsh-m-54256b132/"> <img width ="24px" src="https://github.com/Utkar5hM/Utkar5hM/raw/main/linkedin.png" ></a>
- 
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
