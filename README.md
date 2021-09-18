@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Mahajan</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkar5hm&label=Profile%20views&color=0e75b6&style=flat" alt="utkar5hm" /> </p>
 
 <p align="left"> <a href="https://twitter.com/utkar5hm" target="blank"><img src="https://img.shields.io/twitter/follow/utkar5hm?logo=twitter&style=for-the-badge" alt="utkar5hm" /></a> </p>
