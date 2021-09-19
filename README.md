@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I make lame jokes.:)**
 
-<h3 align="left">Some of my Older Projects:</h3>
+<h3 align="left">Some of my Older VB Projects:</h3>
 
 - Auto Shutdown(2014) [Gdrive Link](https://drive.google.com/file/d/1wpp5mlwVV-_0G6WhV0msmuu2FlvDVfj6/view?usp=sharing)
 
