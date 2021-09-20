@@ -29,7 +29,7 @@
 
 <h3 align="left">Some phpbb forums and wordpress hosted by me:</h3>
 
-- Nitksf(phpbb forum) (2021) [Web Archive Link](https://web.archive.org/web/20210723061701/http://nitksf.tech/)
+- Nitksf(phpbb forum) (2021)[aws ec2] [Web Archive Link](https://web.archive.org/web/20210723061701/http://nitksf.tech/)
 
 - Main battalion Outfit Official website (planetside 2) (2016) [Web Archive Link](https://web.archive.org/web/20180822185932/http://mainbattalion.com/gallery/)
 
