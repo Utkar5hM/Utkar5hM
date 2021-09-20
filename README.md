@@ -27,7 +27,7 @@
 
 - other short projects (2013) [Blog link](https://fseteam.blogspot.com/p/products.html)
 
-<h3 align="left">Few of the known phpbb forums and wordpress hosted by me:</h3>
+<h3 align="left">Some phpbb forums and wordpress hosted by me:</h3>
 
 - Nitksf(phpbb forum) (2021) [Web Archive Link](https://web.archive.org/web/20210723061701/http://nitksf.tech/)
 
