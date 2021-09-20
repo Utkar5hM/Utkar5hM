@@ -27,6 +27,12 @@
 
 - other short projects (2013) [Blog link](https://fseteam.blogspot.com/p/products.html)
 
+<h3 align="left">Few of the known phpbb forums and wordpress hosted by me:</h3>
+
+- Nitksf(phpbb forum) (2021) [Web Archive Link](https://web.archive.org/web/20210723061701/http://nitksf.tech/)
+
+- Main battalion Outfit Official website (planetside 2) (2016) [Web Archive Link](https://web.archive.org/web/20180822185932/http://mainbattalion.com/gallery/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkar5hm" height="30" width="40" /></a>
