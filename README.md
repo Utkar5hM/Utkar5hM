@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkar5hm" target="blank"><img src="https://img.shields.io/twitter/follow/utkar5hm?logo=twitter&style=for-the-badge" alt="utkar5hm" /></a> </p>
 
-- 🔭 I’m currently working on **Alag ( a Social Media App) & S4TD ( A daily song recommender)**
+- 🔭 I’m currently working on **Alag ( a Social Media App) & S4TD ( a daily song recommender)**
 
 - 🌱 I’m currently learning **React, C.Arch**
 
