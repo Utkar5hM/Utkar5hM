@@ -2,24 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkar5hm&label=Profile%20views&color=0e75b6&style=flat" alt="utkar5hm" /> </p>
 
 - 🔭 I’m currently working on **Alag ( a Social Media App) & S4TD ( a daily song recommender)**
-- 🌱 I’m currently learning **React, C.Arch**
+- 🌱 I’m currently learning  C.Arch
 - 👯 I’m looking to collaborate on [competition-management-system](https://github.com/Utkar5hM/competition-management-system)
-- 🤝 I’m looking for help with **ReactJs, Computer Architecture, VLSI**
+- 🤝 I’m looking for help with **Computer Architecture, VLSI**
 - 👨‍💻 All of my projects are available at [Coming Soon](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - 💬 Ask me about **Node, c++, eJs**
 - 📫 How to reach me **utkarshrm568@gmail.com**
 - ⚡ Fun fact **I make lame jokes.:)**
-
-<h3 align="left">Some of my Older VB Projects:</h3>
-
-- Auto Shutdown(2014) [Gdrive Link](https://drive.google.com/file/d/1wpp5mlwVV-_0G6WhV0msmuu2FlvDVfj6/view?usp=sharing)
-- Robocraft rainbow text generator (2015) [Gdrive Link](https://drive.google.com/file/d/1Qmz57G0dqlj4p7zVTOEaiORc3ROyNqvk/view?usp=sharing)
-- other short projects (2013) [Blog link](https://fseteam.blogspot.com/p/products.html)
-
-<h3 align="left">Some phpbb forums and wordpress hosted by me:</h3>
-
-- Nitksf(phpbb forum) (2021)[aws ec2] [Web Archive Link](https://web.archive.org/web/20210723061701/http://nitksf.tech/)
-- Main battalion Outfit Official website (planetside 2) (2016) [Web Archive Link](https://web.archive.org/web/20180822185932/http://mainbattalion.com/gallery/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
