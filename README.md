@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkar5hm&label=Profile%20views&color=0e75b6&style=flat" alt="utkar5hm" /> </p>
+
 
 - 🔭 I’m currently working on **Alag ( a Social Media App) & S4TD ( a daily song recommender)**
 - 🌱 I’m currently learning  C.Arch
