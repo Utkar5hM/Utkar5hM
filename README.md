@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 
-
-- 🔭 I’m currently working on **Alag ( a Social Media App) & S4TD ( a daily song recommender)**
-- 🌱 I’m currently learning  C.Arch
-- 👯 I’m looking to collaborate on [competition-management-system](https://github.com/Utkar5hM/competition-management-system)
-- 🤝 I’m looking for help with **Computer Architecture, VLSI**
 - 👨‍💻 All of my projects are available at [Coming Soon](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- 💬 Ask me about **Node, c++, eJs**
+- 💬 Ask me about **Node, c++, Assembly(ARM, x86_64, MIPS)**
 - 📫 How to reach me **utkarshrm568@gmail.com**
 - ⚡ Fun fact **I make lame jokes.:)**
 
