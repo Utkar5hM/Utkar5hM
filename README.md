@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utkarsh</h1>
 
-- 👨‍💻 My Portfolio: [Utkar5hM.tK](https://utkar5hm.tk/)
+- 👨‍💻 My Portfolio: [Utkar5hM.TK](https://utkar5hm.tk/)
 - 💬 Ask me about **Node, c++, Assembly(ARM, x86_64, MIPS)**
 - 📫 How to reach me **utkarshrm568@gmail.com**
 - ⚡ Fun fact **I make lame jokes.:)**
