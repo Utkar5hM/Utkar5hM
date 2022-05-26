@@ -1,24 +1,17 @@
-<h1 align="center">Hi 👋, I'm Utkarsh</h1>
+![Header image](https://github.com/Utkar5hM/Utkar5hM/raw/56179dec6efd1e66759fba4be1455cc48b95a60c/header-image.gif)
+I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-- 👨‍💻 My Portfolio: [Utkar5hM.TK](https://utkar5hm.tk/)
-- 💬 Ask me about **Node, c++, weird stuff**
-- 📫 How to reach me **utkarshrm568@gmail.com**
-- ⚡ Fun fact **I make lame jokes.:)**
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkar5hm" height="30" width="30" /></a>
-&nbsp;
-<a href="https://linkedin.com/in/utkar5hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkar5hm" height="30" width="30" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
-&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
-&nbsp;  
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-&nbsp;
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
-&nbsp;
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>  </p>
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkar5hm/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/utkar5hm/)
+[![Website Badge](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://utkar5hm.tk/)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshrm568@gmail.com)
+[![TryHackMe Badege](https://img.shields.io/badge/-TryHackMe-red?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/Hmm1dk)
+
+## ⚡ Domains:
+
+- Cyber Security (Pentesting)
+- Development
