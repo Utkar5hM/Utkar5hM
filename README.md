@@ -1,7 +1,8 @@
-![Header image](https://github.com/Utkar5hM/Utkar5hM/raw/56179dec6efd1e66759fba4be1455cc48b95a60c/header-image.gif)
+
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200'>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkar5hm/)
