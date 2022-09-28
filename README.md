@@ -1,5 +1,5 @@
 
-hellllllllllllllooooooooooooooooooooooooooo
+hey :P
 
 
 <img align='right' src='https://c.tenor.com/RVGsaUPNlmUAAAAd/tusken-raider.gif' width='350' >
@@ -18,6 +18,6 @@ hellllllllllllllooooooooooooooooooooooooooo
 
 ## ⚡ Domains:
 
-- Cyber Security (Pentesting)
+- Infosec
 - Web/App Development
 
