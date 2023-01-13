@@ -7,7 +7,7 @@ hey :P
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkar5hm/)
 
-[![Blog Badge](	https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.utkar5hm.tk/)
+[![Blog Badge](	https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://utkar5hm.github.io/)
 
 [![TryHackMe Badege](https://img.shields.io/badge/-TryHackMe-red?style=for-the-badge&logo=TryHackMe)](https://tryhackme.com/p/Utkar5hM)
 
